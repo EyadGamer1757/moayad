@@ -67,6 +67,8 @@ else {
     document.write('<h3>loadstring(game:HttpGet("https://raw.githubusercontent.com/CFrame3310/CFrameHub/main/BloxFruit_Mobile.lua"))()</h3>');
     document.write('<h4>Auto farm level script:-</h4>');
     document.write('<h3>loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Zaque%20Hub"))()</h3>');
+    document.write('<h4>Auto farm level script:-</h4>');
+    document.write('<h3>loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()</h3>');
     document.write("<h2>end! rest of the scripts will be added soon!</h2>");
 }
 function rename(){
